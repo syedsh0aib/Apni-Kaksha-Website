@@ -1,0 +1,35 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.coures{
+    background-image: url("https://d23zpyj32c5wn3.cloudfront.net/images/masonry_bricks/pictures/54772/big/markzero.jpg?1551968085");
+    background-repeat: no-repeat, repeat;
+}
+
+
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.link {
+    color: red;
+    padding: 10px;
+    text-decoration: none;
+}
+.our-nav{
+    background-color: #000;
+    padding: 10px;
+    color: #448e9c;
+}
+
+.haeder{
+    background-color: #448e9c;
+    padding: 30px;
+
+}
